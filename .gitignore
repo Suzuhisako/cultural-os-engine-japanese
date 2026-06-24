@@ -1,0 +1,10 @@
+# Python bytecode (VSCode creates these automatically)
+__pycache__/
+*.pyc
+
+# Local Environment secrets
+.env
+*.env
+
+# output_entries/
+# scenario.json
